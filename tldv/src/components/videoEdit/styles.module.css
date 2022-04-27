@@ -1,0 +1,7 @@
+.inputWrapper{
+    margin-bottom: 10px;
+}
+
+.title, .slug, .url, .public{
+    font-size: 20px;
+}

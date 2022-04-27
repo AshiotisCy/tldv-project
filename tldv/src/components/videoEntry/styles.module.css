@@ -1,0 +1,14 @@
+.modalWrapper{
+
+}
+
+.inputWrapper{
+    margin-bottom: 10px !important;
+}
+
+.title, .slug, .url, .public{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #000;
+    margin-bottom: 5px;
+}

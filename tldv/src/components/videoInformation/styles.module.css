@@ -1,0 +1,18 @@
+.videoSlug {
+  margin-top: 20px;
+  font-size: 20px;
+  font-family: sans-serif;
+  text-align: left;
+  background-color: rgb(241, 241, 241);
+  padding: 20px;
+}
+
+.iframeInfo{
+  cursor: not-allowed
+}
+
+.warningText{
+  font-size: 20px;
+  font-family: sans-serif;
+  margin-left: 20px;
+}
